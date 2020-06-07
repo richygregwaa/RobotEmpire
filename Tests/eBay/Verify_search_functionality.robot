@@ -3,7 +3,7 @@
 #                    robot -d Results Tests/eBay/Verify_search_functionality.robot
 #     alternatively: robot -d Results -v env:qa Tests/eBay/Verify_search_functionality.robot
 # robot -d Results -v url:https://www.ebay.com -v browser:chrome Tests/eBay/Verify_search_functionality.robot
-# Placed copy of Browser Driver in /Users/richygregwaa/PycharmProjects/RobotEmpire/venv/bin
+# Placed copy of Chrome Driver in /usr/local/bin (Find shortcut in Users/richygregwaa/BrowserDrivers)
 
 *** Settings ***
 Documentation  Basic Search Functionality
