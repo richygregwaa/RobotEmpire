@@ -11,6 +11,11 @@ TC to demonstrate Weblocators in Robot FW
     [Documentation]  This is a sample test case to demonstrate Weblocators in Robot FW
 
 #    Open Browser  http://www.ebay.com  chrome
+#    Input Text  id:gh-ac  robot2
+#    Input Text  name:_nkw  robot2
+#    Click Link  link:Start selling
+#    Click Link  partial link:Seller Cen
+
     Open Browser  https://developer.salesforce.com/signup  chrome
     Maximize Browser Window
     Click Button  //*[@id="onetrust-accept-btn-handler"]
@@ -35,15 +40,9 @@ TC to demonstrate Weblocators in Robot FW
 #  //*[@value='AS']//preceding-sibling::option
 #  //*[@value='AS']//preceding-sibling::option[@value='US']
 
-
-
     sleep  3s
     Click Link  //a[text()=' Terms of Use']
     Sleep  2s
     Close Browser
 
-#    Input Text  id:gh-ac  robot2
-#    Input Text  name:_nkw  robot2
-#    Click Link  link:Start selling
-#    Click Link  partial link:Seller Cen
 
