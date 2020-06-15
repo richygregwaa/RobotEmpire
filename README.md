@@ -1,7 +1,7 @@
 # RobotEmpire
 Robot Empire
 
-I am following a tutorial of 24 videos on YouTube by Manish (Software Testing Mentor).
+I am following a tutorial of 61 videos on YouTube by Manish (Software Testing Mentor).
 It's called 'Robot Framework Tutorial': 
 
     https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV
