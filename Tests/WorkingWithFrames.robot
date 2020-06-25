@@ -15,7 +15,6 @@ TC to demonstrate working with Frames in RobotFramework
     Current Frame Should Not Contain  JavaScript Confirm Box Two
 
     Unselect Frame
-    #Select Frame  id:textareacontainer
 
     Frame Should Contain  id:iframeResult  JavaScript Alert
 
