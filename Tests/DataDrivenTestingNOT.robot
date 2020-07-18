@@ -1,4 +1,4 @@
-# robot -d results Tests/TestDrivenDataNOT.robot
+# robot -d results Tests/DataDrivenTestingNOT.robot
 
 *** Settings ***
 Library  SeleniumLibrary
